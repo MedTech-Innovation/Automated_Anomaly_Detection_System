@@ -56,13 +56,14 @@ dist-ssr/
 Thumbs.db
 desktop.ini
 
-# Model files (large files - consider using Git LFS)
-# Uncomment if you want to exclude model files from git
-# backend/model/**/*.h5
-# backend/model/**/*.safetensors
-# backend/model/**/*.pkl
-# backend/model/**/*.pt
-# backend/model/**/*.pth
+# Model files (large files - excluded from git due to size limits)
+# Use Git LFS or store models separately if needed
+backend/model/**/*.h5
+backend/model/**/*.safetensors
+backend/model/**/*.pkl
+backend/model/**/*.pt
+backend/model/**/*.pth
+backend/model/**/*.bin
 
 # Logs
 logs/
