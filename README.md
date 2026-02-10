@@ -2,6 +2,8 @@
 
 Our mission is to empower radiologists and oncologists with AI-driven MRI analysis tools that enhance tumor detection accuracy, accelerate diagnosis, and ultimately save lives through early intervention.
 
+[![Démo du projet] https://drive.google.com/file/d/1OM8_Tgsj5hppReEMjlqOSP3IZ0Y5whO8/view?usp=drive_link)]
+
 ## 🚀 Quick Start Guide
 
 This guide will help you set up and run the MedTech Innovation Software project on your local machine.
