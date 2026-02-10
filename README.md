@@ -4,7 +4,7 @@ Our mission is to empower radiologists and oncologists with AI-driven MRI analys
 
 ## 🧠 Project Demo
 
-https://drive.google.com/file/d/1OM8_Tgsj5hppReEMjlqOSP3IZ0Y5whO8/view?usp=drive_link)
+https://drive.google.com/file/d/1OM8_Tgsj5hppReEMjlqOSP3IZ0Y5whO8/view?usp=drive_link
 
 ## 🚀 Quick Start Guide
 
